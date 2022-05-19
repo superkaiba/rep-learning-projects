@@ -1,5 +1,5 @@
 '''
-Project completed from code given as part of Representation Learning class at MILA in Winter 2022
+Code completed from template given as part of Representation Learning class at MILA in Winter 2022
 '''
 
 from posixpath import splitdrive
